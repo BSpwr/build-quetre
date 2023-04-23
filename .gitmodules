@@ -1,0 +1,3 @@
+[submodule "quetre"]
+	path = quetre
+	url = https://github.com/zyachel/quetre
